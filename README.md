@@ -1,4 +1,4 @@
-# FT Currency Converter for ipon | iponcomp **Firefox Version**
+# **Firefox Version** FT Currency Converter for ipon | iponcomp 
 Whitch is basically the same version, but made to suit firefox gecko.
 
 [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/ft-currency-converter-for-ipon/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
